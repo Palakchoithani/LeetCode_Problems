@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 9 |
+| 13 | 9 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (6)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
-- [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [sortings](#sortings) (2)
+- [strings](#strings) (2)
 
 ---
 
@@ -57,6 +57,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/337/A%20-%20Puzzles/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.py) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2208/B%20-%20Cyclists/solution.py) |
@@ -69,6 +70,7 @@
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2208/B%20-%20Cyclists/solution.py) |
 
@@ -84,6 +86,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/2208/B%20-%20Cyclists/solution.py) |
 
 ### strings
@@ -91,6 +94,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Palakchoithani/LeetCode_Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 
 ---
 
