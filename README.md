@@ -116,8 +116,18 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Palakchoithani/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
